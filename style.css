@@ -4,4 +4,4 @@ p:last-child { color: orange; }
 
 p:not(.padrao) { color: yellow;}
 
-li:nth-child(odd) { color: green;}
+li:nth-child(odd) { color: purple;}
